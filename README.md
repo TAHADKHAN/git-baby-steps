@@ -1,4 +1,4 @@
 # git-baby-steps
-first offical git repository.
+First Offical Git Gepository.
 <br>
 Author -TAHADKHAN
